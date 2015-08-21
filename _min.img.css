@@ -1,1 +1,83 @@
-/* ----------------------------------------------- Colorful Responsive Movie Skin for Blogger	-	By		: Phimini.com	-	URL		: http://www.phimini.com/ ----------------------------------------------- */.index{background: url(//cdn.phimini.com/ColorRespMov/img/movies.png) no-repeat center left !important;}.headline-wrapper{background:#535355  url(//cdn.phimini.com/ColorRespMov/img/headline-bg.png) no-repeat left;}.sidebar h2{background-image: url(//cdn.phimini.com/ColorRespMov/img/arrow_right.gif);}#sidebar h2.active{background-image: url(//cdn.phimini.com/ColorRespMov/img/arrow_down.gif);}.footer li{background: url(//cdn.phimini.com/ColorRespMov/img/bullet.png) no-repeat 1px 5px;}.menu li a{background: url(//cdn.phimini.com/ColorRespMov/img/line.gif) no-repeat 0 27px;}.maskolis .col_maskolis{background:#e6e6e6  url(//cdn.phimini.com/ColorRespMov/img/bar-bg.png) repeat-x top;}#related-posts a{background:#e6e6e6  url(//cdn.phimini.com/ColorRespMov/img/bar-bg.png) repeat-x top;}.shadow{background: url(//cdn.phimini.com/ColorRespMov/img/main-shadow.png) no-repeat center;}#carousel #previous_button{background: url(//cdn.phimini.com/ColorRespMov/img/prev.png) center;}#carousel #next_button{background: url(//cdn.phimini.com/ColorRespMov/img/next.png) center;}.author{background: url(//cdn.phimini.com/ColorRespMov/img/user.png) left center no-repeat;}.clock{background: url(//cdn.phimini.com/ColorRespMov/img/time.png) left center no-repeat;}.comments .comment .comment-actions a{background: url(//cdn.phimini.com/ColorRespMov/img/reply.png) no-repeat 9px 0px;}.comments .comments-content .icon.blog-author{background: url(//cdn.phimini.com/ColorRespMov/img/admin.png) no-repeat scroll 0% 0% transparent;}.comments .thread-expanded .thread-arrow{background: url(//cdn.phimini.com/ColorRespMov/img/arrow-down.png) no-repeat scroll 0 0 transparent;}.comments .thread-collapsed .thread-arrow{background: url(//cdn.phimini.com/ColorRespMov/img/arrow-right.png) no-repeat scroll 0 0 transparent;}.video-server a{background:transparent  url(//cdn.phimini.com/ColorRespMov/img/icons.png) no-repeat;}.dl-link li{background:transparent  url(//cdn.phimini.com/ColorRespMov/img/icons.png) no-repeat;}.Like2Reveal-loading-bar{background: url(//cdn.phimini.com/ColorRespMov/img/rainbow.png) left center no-repeat;}#elegant-page-loader{background:#000  url(//cdn.phimini.com/ColorRespMov/img/loading.gif) no-repeat 50% 50%;}
+.index {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/movies.png) no-repeat center left !important;
+}
+
+.headline-wrapper {
+  background: #535355  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/headline-bg.png) no-repeat left;
+}
+
+.sidebar h2 {
+  background-image: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow_right.gif);
+}
+
+#sidebar h2.active {
+  background-image: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow_down.gif);
+}
+
+.footer li {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bullet.png) no-repeat 1px 5px;
+}
+
+.menu li a {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/line.gif) no-repeat 0 27px;
+}
+
+.maskolis .col_maskolis {
+  background: #e6e6e6  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
+}
+
+#related-posts a {
+  background: #e6e6e6  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
+}
+
+.shadow {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/main-shadow.png) no-repeat center;
+}
+
+#carousel #previous_button {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/prev.png) center;
+}
+
+#carousel #next_button {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/next.png) center;
+}
+
+.author {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/user.png) left center no-repeat;
+}
+
+.clock {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/time.png) left center no-repeat;
+}
+
+.comments .comment .comment-actions a {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/reply.png) no-repeat 9px 0px;
+}
+
+.comments .comments-content .icon.blog-author {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/admin.png) no-repeat scroll 0% 0% transparent;
+}
+
+.comments .thread-expanded .thread-arrow {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow-down.png) no-repeat scroll 0 0 transparent;
+}
+
+.comments .thread-collapsed .thread-arrow {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow-right.png) no-repeat scroll 0 0 transparent;
+}
+
+.video-server a {
+  background: transparent  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
+}
+
+.dl-link li {
+  background: transparent  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
+}
+
+.Like2Reveal-loading-bar {
+  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/rainbow.png) left center no-repeat;
+}
+
+#elegant-page-loader {
+  background: #000  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/loading.gif) no-repeat 50% 50%;
+}
