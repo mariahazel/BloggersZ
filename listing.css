@@ -1,0 +1,345 @@
+/* -----------------------------------------------
+Colorful Responsive Movie Skin for Blogger
+By		: Phimini.com
+URL		: http://www.phimini.com/
+----------------------------------------------- */
+
+#main-wrapper {
+    float: right;
+}
+
+#sidebar-wrapper,#sidebar1-wrapper {
+    float: left;
+    padding: 10px 0 0 10px;
+    display: none;
+}
+
+
+#carousel {
+    width: 1020px;
+    height: 500px;
+    position: relative;
+    display: block;
+}
+
+#carousel .container {
+    position: absolute;
+    left: 25px;
+    width: 950px;
+    height: 500px;
+    overflow: hidden;
+}
+
+#carousel #previous_button {
+    position: absolute;
+    width: 25px;
+    height: 410px;
+    /* background: url(//cdn.phimini.com/ColorRespMov/img/prev.png) center; */
+    z-index: 100;
+    cursor: pointer;
+}
+
+#carousel #next_button {
+    position: absolute;
+    right: 0;
+    width: 25px;
+    height: 410px;
+    /* background: url(//cdn.phimini.com/ColorRespMov/img/next.png) center; */
+    z-index: 100;
+    cursor: pointer;
+}
+
+#carousel #next_button:hover,#carousel #previous_button:hover {
+    filter: alpha(opacity=70);
+    opacity: .7;
+}
+
+#carousel ul li:hover {
+    background: #ccc;
+    border: 1px solid #aaa;
+}
+
+#carousel ul {
+    width: 100000px;
+    position: relative;
+    margin-top: 10px;
+}
+
+#carousel ul li {
+    display: inline;
+    float: left;
+    text-align: center;
+    font: 22px bold Verdana;
+    width: 308px;
+    height: 460px;
+    margin: 0 1px 6px 9px;
+    border: 1px solid #c9c9c9;
+}
+
+#carousel ul li a.r_title {
+    color: #111;
+    display: block;
+    margin-top: 6px;
+    text-shadow: 0px 1px 1px #fff;
+}
+
+#carousel ul li a.slider_title:hover {
+    color: #626262;
+}
+
+#blog-pager {
+    clear:both;
+}
+
+#blog-pager a {
+    color: #fff;
+}
+
+.showpageArea {
+	margin: 10px auto;
+	margin-top: 40px;
+	width: 100%;
+	text-align: center;
+}
+
+.showpageArea a, .showpagePoint {
+    font-size: 26px;
+    padding: 15px 20px;
+	margin: 0px 3px;
+	text-align: center;
+    text-decoration: none;
+}
+
+.showpagePoint {
+    font-weight: 700;
+    padding: 16px 20px;
+}
+
+.showpageNum a,.showpage a {
+    font-size: 26px;
+    text-decoration: none;
+}
+
+.showpageOf {
+    display: none;
+}
+.firstPage a, .lastPage a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.currentPage {
+	cursor: all-scroll;
+}
+
+.switch {
+    height: 25px;
+    color: #000;
+    margin: 0;
+    padding: 0px;
+}
+
+.switch-left {
+    float: left;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    font: 30px Verdana;
+    color: #666;
+}
+
+.switch-right {
+    width: 175px;
+	text-align: right;
+    float: right;
+    margin-top: 17px;
+}
+
+.switch a {
+    border: 1px solid #ccc;
+    font: 11px Arial;
+    /* padding: 5px 8px 3px 5px; */
+	padding: 5px;
+    text-transform: none;
+    color: #333;
+}
+.switch a:before {
+	font-family: FontAwesome;
+	margin-right: 5px;
+	top: 2px;
+	position: relative;
+	font-size: 14px;
+	display: inline;
+}
+
+/* 
+a.bar_view {
+	background: url(//cdn.phimini.com/ColorRespMov/img/grid.gif) no-repeat 3px center;
+}
+
+a.dat_view {
+    background: url(//cdn.phimini.com/ColorRespMov/img/listed.gif) no-repeat 3px center;
+} */
+
+a.bar_view:before {
+	/* background: url(grid.gif) no-repeat 3px center; */
+	content: '\f009';
+}
+
+a.dat_view:before {
+    /* background: url(listed.gif) no-repeat 3px center; */
+	content: '\f03a';
+}
+.index {
+    /* background: url(//cdn.phimini.com/ColorRespMov/img/movies.png) no-repeat center left !important; */
+    float: right;
+    font: 20px;
+    color: #444;
+    display: block;
+    margin: 6px 0 0;
+    padding: 0 10px 0 30px;
+}
+.index span {
+	font-family:Nokia;
+}
+
+.post {
+    padding: 15px;
+    text-align: justify;
+}
+
+.post h1,.post h2 {
+    font: 20px;
+    line-height: 1em;
+    margin: 0 0 8px;
+    padding: 0;
+}
+
+.post img {
+    transition: all 400ms ease-in-out;
+    -webkit-transition: all 400ms ease-in-out;
+    -moz-transition: all 400ms ease-in-out;
+    -o-transition: all 400ms ease-in-out;
+    -ms-transition: all 400ms ease-in-out;
+	margin-top: 5px;
+    border: 0;
+}
+
+.postmeta {
+    padding: 10px 0;
+}
+
+.post img:hover {
+    opacity: .7;
+    filter: alpha(opacity=70);
+    -moz-opacity: .7;
+    -khtml-opacity: .7;
+}
+
+.post-footer {
+    display: none;
+}
+
+.bar {
+    margin: 0px 0 7px 7px;
+    text-align: center;
+    height: 280px;
+    float: left;
+    overflow: hidden;
+    width: 228px !important;
+	display: block;
+    border: 1px solid #c9c9c9;
+    background: #f5f5f5;
+    padding: 8px 0 30px 0;
+    -moz-transition: all 0.4s ease 0s;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+}
+
+.bar:hover {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+    background-color: #fff;
+}
+
+.bar h1,.bar h2 {
+    border: none;
+    line-height: 8px;
+    margin: 0px;
+	width: 97%;
+    padding: 0px 2px;
+    color: #ccc;
+}
+
+.bar h1 a,.bar h1 a:visited,.bar h2 a,.bar h2 a:visited {
+    text-shadow: 0px 1px 1px #fff;
+    font-size: 13px;
+    line-height: 12px;
+    font-family: 'Droid Sans', sans-serif;
+	text-decoration: none;
+    font-weight: bold;
+    color: #000;
+	width: 100%;
+	display: block;
+    -moz-transition: all 0.4s ease 0s;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    text-transform: none;
+}
+
+.bar .postmeta {
+    display: none;
+}
+
+.bar .post-body {
+    background: none;
+    overflow: hidden;
+    height: 300px;
+    width: 210px;
+    margin: 0 auto;
+	margin-top: 10px;
+}
+.readmorecontent {
+    text-align: right;
+    width: auto;
+    float: right;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.readmorecontent a {
+    text-decoration: none;
+    padding: 8px 0px 8px 5px;
+    color: #fff !important;
+    text-decoration: none;
+    font-size: 16px;
+	border: 2px solid transparent;
+	border-right: none;
+	transition: all .5s ease-in-out;
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	-ms-transition: all .5s ease-in-out;
+}
+
+.readmorecontent a:after {
+	margin: 0px 0px 0px 5px;
+	padding: 10px;
+	font-family: FontAwesome;
+	content: '\f04b';
+}
+
+@media screen and (max-width:800px) {
+	.showpageArea a, .showpagePoint {
+		font-size: 22px;
+		padding: 10px 15px;
+	}
+}
+
+@media screen and (max-width:520px) {
+	.showpageArea a, .showpagePoint {
+		font-size: 18px;
+		padding: 5px 10px;
+	}
+}

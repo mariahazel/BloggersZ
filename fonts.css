@@ -1,0 +1,22 @@
+/* -----------------------------------------------
+Colorful Responsive Movie Skin for Blogger
+By		: Phimini.com
+URL		: http://www.phimini.com/
+----------------------------------------------- */
+
+/*
+Google Drive does not allow external fonts
+we MUST host them on private server then load direcly in template
+*/
+@font-face {
+    font-family: "Agin";
+	font-style: normal;
+	font-weight: 400;
+	src: url('//cdn.phimini.com/ColorRespMov/font/loader.php?f=Agin.ttf');
+}
+@font-face {
+    font-family: "Nokia";
+	font-style: normal;
+	font-weight: 400;
+	src: url('//cdn.phimini.com/ColorRespMov/font/loader.php?f=Nokia.ttf');
+}

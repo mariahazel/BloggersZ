@@ -1,0 +1,90 @@
+/* -----------------------------------------------
+Colorful Responsive Movie Skin for Blogger
+By		: Phimini.com
+URL		: http://www.phimini.com/
+----------------------------------------------- */
+
+.index {
+    background: url(//cdn.phimini.com/ColorRespMov/img/movies.png) no-repeat center left !important;
+}
+.headline-wrapper {
+    background: #535355 url(//cdn.phimini.com/ColorRespMov/img/headline-bg.png) no-repeat left;
+}
+.sidebar h2 {
+    background-image: url(//cdn.phimini.com/ColorRespMov/img/arrow_right.gif);
+}
+#sidebar h2.active {
+    background-image: url(//cdn.phimini.com/ColorRespMov/img/arrow_down.gif);
+}
+.footer li {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bullet.png) no-repeat 1px 5px;
+}
+.menu li a {
+    background: url(//cdn.phimini.com/ColorRespMov/img/line.gif) no-repeat 0 27px;
+}
+.maskolis .col_maskolis {
+    background: #e6e6e6 url(//cdn.phimini.com/ColorRespMov/img/bar-bg.png) repeat-x top;
+}
+#related-posts a {
+	background: #e6e6e6 url(//cdn.phimini.com/ColorRespMov/img/bar-bg.png) repeat-x top;
+}
+.shadow {
+    background: url(//cdn.phimini.com/ColorRespMov/img/main-shadow.png) no-repeat center;
+}
+#carousel #previous_button {
+    background: url(//cdn.phimini.com/ColorRespMov/img/prev.png) center;
+}
+#carousel #next_button {
+    background: url(//cdn.phimini.com/ColorRespMov/img/next.png) center;
+}
+.author {
+    background: url(//cdn.phimini.com/ColorRespMov/img/user.png) left center no-repeat;
+}
+.clock {
+    background: url(//cdn.phimini.com/ColorRespMov/img/time.png) left center no-repeat;
+}
+.comments .comment .comment-actions a {
+    background: url(//cdn.phimini.com/ColorRespMov/img/reply.png) no-repeat 9px 0px;
+}
+.comments .comments-content .icon.blog-author{
+    background: url(//cdn.phimini.com/ColorRespMov/img/admin.png) no-repeat scroll 0% 0% transparent;
+}
+.comments .thread-expanded .thread-arrow {
+	background: url(//cdn.phimini.com/ColorRespMov/img/arrow-down.png) no-repeat scroll 0 0 transparent;
+}
+.comments .thread-collapsed .thread-arrow {
+	background: url(//cdn.phimini.com/ColorRespMov/img/arrow-right.png) no-repeat scroll 0 0 transparent;
+}
+.video-server a {
+    background: transparent url(icons.png) no-repeat;
+}
+  .dl-link li {
+    background: transparent url(icons.png) no-repeat;
+}
+.Like2Reveal-loading-bar {
+	background: url(//cdn.phimini.com/ColorRespMov/img/rainbow.png) left center no-repeat;
+}
+#elegant-page-loader {
+    background:#000 url(//cdn.phimini.com/ColorRespMov/img/loading.gif) no-repeat 50% 50%;
+}
+body{
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/20.jpg) fixed 0 0;
+}
+body.soda {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/22.jpg) fixed 0 0;
+}
+body.juice {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/15.jpg) fixed 0 0;
+}
+body.coffee {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/2.jpg) fixed 0 0;
+}
+body.honey {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/6.jpg) fixed 0 0;
+}
+body.wine {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/3.jpg) fixed 0 0;
+}
+body.cocktail {
+    background: url(//cdn.phimini.com/ColorRespMov/img/bg/20.jpg) fixed 0 0;
+}

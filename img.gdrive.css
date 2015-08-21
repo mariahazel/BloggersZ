@@ -1,0 +1,90 @@
+/* -----------------------------------------------
+Colorful Responsive Movie Skin for Blogger
+By		: Phimini.com
+URL		: http://www.phimini.com/
+----------------------------------------------- */
+
+.index {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwYjJxdFloM3NHaWc) no-repeat center left !important;
+}
+.headline-wrapper {
+    background: #535355 url(//googledrive.com/host/0B-YUEkR0Cdcwa3VVYk1HRHE4TEk) no-repeat left;
+}
+.sidebar h2 {
+    background-image: url(//googledrive.com/host/0B-YUEkR0CdcwUDcza2I5V2ZPa1E);
+}
+#sidebar h2.active {
+    background-image: url(//googledrive.com/host/0B-YUEkR0CdcwXy1fQTVQTkk3Tzg);
+}
+.footer li {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwWmFwNUJ0TTFZZTQ) no-repeat 1px 5px;
+}
+.menu li a {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwenFmWklSVHB4SmM) no-repeat 0 27px;
+}
+.maskolis .col_maskolis {
+    background: #e6e6e6 url(//googledrive.com/host/0B-YUEkR0CdcwZVdjZV9yeUltcUE) repeat-x top;
+}
+#related-posts a {
+	background: #e6e6e6 url(//googledrive.com/host/0B-YUEkR0CdcwSmtIYnVERjF5Z1k) repeat-x top;
+}
+.shadow {
+    background: url(//googledrive.com/host/0B-YUEkR0Cdcwc2ZzdUJLcnNnVWc) no-repeat center;
+}
+#carousel #previous_button {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwV0NaYmZpVlJVWnM) center;
+}
+#carousel #next_button {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwZXdsYkNROHM4R0k) center;
+}
+.author {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwUnRSZjhwbXpOaFU) left center no-repeat;
+}
+.clock {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwM3lMVmlwRXpvTTA) left center no-repeat;
+}
+.comments .comment .comment-actions a {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwdVlQcGdHXzFScFU) no-repeat 9px 0px;
+}
+.comments .comments-content .icon.blog-author{
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwS1BTemM5bzVKRzQ) no-repeat scroll 0% 0% transparent;
+}
+.comments .thread-expanded .thread-arrow {
+	background: url(//googledrive.com/host/0B-YUEkR0CdcwRFliMHhYM1BzMXc) no-repeat scroll 0 0 transparent;
+}
+.comments .thread-collapsed .thread-arrow {
+	background: url(//googledrive.com/host/0B-YUEkR0CdcwZVdjZV9yeUltcUE) no-repeat scroll 0 0 transparent;
+}
+.video-server a {
+    background: transparent url(//googledrive.com/host/0B-YUEkR0CdcweEZQVDhob1BkT2c) no-repeat;
+}
+  .dl-link li {
+    background: transparent url(//googledrive.com/host/0B-YUEkR0CdcweEZQVDhob1BkT2c) no-repeat;
+}
+.Like2Reveal-loading-bar {
+	background: url(//googledrive.com/host/0B-YUEkR0CdcwVF9waC1MQXBPY2c) left center no-repeat;
+}
+#elegant-page-loader {
+    background:#000 url(//googledrive.com/host/0B-YUEkR0CdcweGpZLU5IZXY0ZEE) no-repeat 50% 50%;
+}
+body{
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwbTB3ODdpUGh6bDQ) fixed 0 0;
+}
+body.soda {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwNWVrVXlzWjFLSEU) fixed 0 0;
+}
+body.juice {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwTklXWDlWYnVCY3c) fixed 0 0;
+}
+body.coffee {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwZVNMbzJrN2xNM0E) fixed 0 0;
+}
+body.honey {
+    background: url(//googledrive.com/host/0B-YUEkR0Cdcwdl9aT3ZMc1h5Nm8) fixed 0 0;
+}
+body.wine {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwU0FFRTVHMFNKT28) fixed 0 0;
+}
+body.cocktail {
+    background: url(//googledrive.com/host/0B-YUEkR0CdcwbTB3ODdpUGh6bDQ) fixed 0 0;
+}
