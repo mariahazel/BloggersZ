@@ -9,7 +9,7 @@ var custom_categories_enabled = true,	// turn OFF if use Blogger's category syst
 	num_related_posts = num_recent_posts = 8,	// max movies to list for Related & Recent sections
 	dynamic_content = true,				// lazy-load option, set FALSE to load all movie detailed page
 	latest_by_author_loaded = related_posts_loaded = false, // use with dynamic_content only
-	no_img_url = '//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/no-img.png'; /* //googledrive.com/host/0B-YUEkR0CdcwOXZUYjNobzV5dlk */
+	no_img_url = '//cdn.rawgit.com/mariahazel/BloggersZ/master/img/no-img.png'; /* //googledrive.com/host/0B-YUEkR0CdcwOXZUYjNobzV5dlk */
 
 var imgr = new Array();
 imgr[0] = no_img_url;
@@ -417,7 +417,7 @@ function printRelatedLabels_thumbs() {
 	if (relatedTitles.length > 0) document.write('<h1>' + relatedpoststitle + '</h1>');
 	document.write('<div style="clear:both;"/>');
 	while (i < relatedTitles.length && i < 20 && i < maxresults) {
-		document.write('<a style="text-decoration:none;margin:0 10px 10px 0;float:left;background:#e6e6e6 url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;border:1px solid #c9c9c9;');
+		document.write('<a style="text-decoration:none;margin:0 10px 10px 0;float:left;background:#e6e6e6 url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;border:1px solid #c9c9c9;');
 		if (i != 0) document.write('"');
 		else document.write('"');
 		document.write(' href="' + relatedUrls[r] + '"><img class="maskolis_img" src="' + thumburl[r] + '"/><br/><div style="width:190px;padding:0 10px;color:#4B4444;height:38px;text-align:center;margin:0px 0px; font-size:12px; line-height:16px;">' + relatedTitles[r] + '</div></a>');

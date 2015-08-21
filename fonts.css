@@ -12,11 +12,11 @@ we MUST host them on private server then load direcly in template
     font-family: "Agin";
 	font-style: normal;
 	font-weight: 400;
-	src: url('//raw.githubusercontent.com/mariahazel/BloggersZ/master/font/Agin.ttf');
+	src: url('//cdn.rawgit.com/mariahazel/BloggersZ/master/font/Agin.ttf');
 }
 @font-face {
     font-family: "Nokia";
 	font-style: normal;
 	font-weight: 400;
-	src: url('//raw.githubusercontent.com/mariahazel/BloggersZ/master/font/Nokia.ttf');
+	src: url('//cdn.rawgit.com/mariahazel/BloggersZ/master/font/Nokia.ttf');
 }

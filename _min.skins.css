@@ -1,5 +1,5 @@
 body {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/20.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/20.jpg) fixed 0 0;
 }
 
 a {
@@ -248,7 +248,7 @@ ul.tab-content a:hover,.post-body a:hover {
 }
 
 body.soda {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/22.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/22.jpg) fixed 0 0;
 }
 
 .soda a {
@@ -497,7 +497,7 @@ body.soda {
 }
 
 body.juice {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/15.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/15.jpg) fixed 0 0;
 }
 
 .juice a {
@@ -746,7 +746,7 @@ body.juice {
 }
 
 body.coffee {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/2.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/2.jpg) fixed 0 0;
 }
 
 .coffee a {
@@ -995,7 +995,7 @@ body.coffee {
 }
 
 body.honey {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/6.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/6.jpg) fixed 0 0;
 }
 
 .honey a {
@@ -1244,7 +1244,7 @@ body.honey {
 }
 
 body.wine {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/3.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/3.jpg) fixed 0 0;
 }
 
 .wine a {
@@ -1493,7 +1493,7 @@ body.wine {
 }
 
 body.cocktail {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bg/20.jpg) fixed 0 0;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bg/20.jpg) fixed 0 0;
 }
 
 .cocktail a {
