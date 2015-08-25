@@ -9,7 +9,7 @@ var custom_categories_enabled = true,	// turn OFF if use Blogger's category syst
 	num_related_posts = num_recent_posts = 8,	// max movies to list for Related & Recent sections
 	dynamic_content = true,				// lazy-load option, set FALSE to load all movie detailed page
 	latest_by_author_loaded = related_posts_loaded = false, // use with dynamic_content only
-	no_img_url = '//cdn.phimini.com/ColorRespMov/img/no-img.png'; /* //googledrive.com/host/0B-YUEkR0CdcwOXZUYjNobzV5dlk */
+	no_img_url = '//cdn.rawgit.com/mariahazel/BloggersZ/master/img/no-img.png'; /* //googledrive.com/host/0B-YUEkR0CdcwOXZUYjNobzV5dlk */
 
 var imgr = new Array();
 imgr[0] = no_img_url;
