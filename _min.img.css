@@ -1,83 +1,83 @@
 .index {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/movies.png) no-repeat center left !important;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/movies.png) no-repeat center left !important;
 }
 
 .headline-wrapper {
-  background: #535355  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/headline-bg.png) no-repeat left;
+  background: #535355  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/headline-bg.png) no-repeat left;
 }
 
 .sidebar h2 {
-  background-image: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow_right.gif);
+  background-image: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/arrow_right.gif);
 }
 
 #sidebar h2.active {
-  background-image: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow_down.gif);
+  background-image: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/arrow_down.gif);
 }
 
 .footer li {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bullet.png) no-repeat 1px 5px;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bullet.png) no-repeat 1px 5px;
 }
 
 .menu li a {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/line.gif) no-repeat 0 27px;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/line.gif) no-repeat 0 27px;
 }
 
 .maskolis .col_maskolis {
-  background: #e6e6e6  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
+  background: #e6e6e6  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
 }
 
 #related-posts a {
-  background: #e6e6e6  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
+  background: #e6e6e6  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/bar-bg.png) repeat-x top;
 }
 
 .shadow {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/main-shadow.png) no-repeat center;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/main-shadow.png) no-repeat center;
 }
 
 #carousel #previous_button {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/prev.png) center;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/prev.png) center;
 }
 
 #carousel #next_button {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/next.png) center;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/next.png) center;
 }
 
 .author {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/user.png) left center no-repeat;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/user.png) left center no-repeat;
 }
 
 .clock {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/time.png) left center no-repeat;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/time.png) left center no-repeat;
 }
 
 .comments .comment .comment-actions a {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/reply.png) no-repeat 9px 0px;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/reply.png) no-repeat 9px 0px;
 }
 
 .comments .comments-content .icon.blog-author {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/admin.png) no-repeat scroll 0% 0% transparent;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/admin.png) no-repeat scroll 0% 0% transparent;
 }
 
 .comments .thread-expanded .thread-arrow {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow-down.png) no-repeat scroll 0 0 transparent;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/arrow-down.png) no-repeat scroll 0 0 transparent;
 }
 
 .comments .thread-collapsed .thread-arrow {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/arrow-right.png) no-repeat scroll 0 0 transparent;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/arrow-right.png) no-repeat scroll 0 0 transparent;
 }
 
 .video-server a {
-  background: transparent  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
+  background: transparent  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
 }
 
 .dl-link li {
-  background: transparent  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
+  background: transparent  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/icons.png) no-repeat;
 }
 
 .Like2Reveal-loading-bar {
-  background: url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/rainbow.png) left center no-repeat;
+  background: url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/rainbow.png) left center no-repeat;
 }
 
 #elegant-page-loader {
-  background: #000  url(//raw.githubusercontent.com/mariahazel/BloggersZ/master/img/loading.gif) no-repeat 50% 50%;
+  background: #000  url(//cdn.rawgit.com/mariahazel/BloggersZ/master/img/loading.gif) no-repeat 50% 50%;
 }
