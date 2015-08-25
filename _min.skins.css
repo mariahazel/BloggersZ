@@ -328,7 +328,7 @@ body.soda {
 .soda .video-reporter a.report-error:hover {
   color: #ff2d19;
   background-color: #fff;
-  border: 1px solid #ff2d19;
+  serverborder: 1px solid #ff2d19;
 }
 
 .soda #drop-categories,.soda .social-share-bar .share-codes i {
