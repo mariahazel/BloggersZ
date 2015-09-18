@@ -971,15 +971,14 @@ ul.tab-content > li.active {
 }
 
 .author-profile .pro-pic img {
-  max-width: 100px;
-  max-height: 100px;
-  margin-top: 0px;
-  border: none;
+    max-width: 300px;
+    max-height: 100px;
+    border: medium none;
+    margin-top: 0px;
 }
-
 .author-profile .pro-inf {
-  margin-top: -5px;
-  width: auto;
+    margin-top: 30px;
+    width: auto;
 }
 
 .author-profile .pro-inf i.fa {
@@ -1009,7 +1008,7 @@ ul.tab-content > li.active {
 }
 
 .media-help iframe,.media-help > span {
-  vertical-align: middle;
+  vertical-align: middle;_min.page.css
 }
 
 .links-code {
