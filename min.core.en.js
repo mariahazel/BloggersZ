@@ -19,7 +19,7 @@ var downPageWord ='older &#187;';
 var home_page_url = location.href, 
 	thisUrl = home_page_url;
 
-var policy_content = "<b><a href='http://www.prescriptz.com/'>PREScriptZ.com</a></b> collects all movies from Google, Youtube, DailyMotion ... and other free resources.<br/><b><a href='http://www.prescriptz.com/'>PREScriptZ.com</a></b> is not responsible for any content that not published by <b><a href='http://www.prescriptz.com/'>PREScriptZ.com</a></b>.<br/>Please contact, <b><a href='http://www.prescriptz.com/'>PREScriptZ.com</a></b> is willing to remove copyright materials immediately<br/>All movies found on this website are hosted on third-party servers that are freely available to watch online for all internet users. Any legal issues regarding the free online movies on this website should be taken up with the actual file hosts themselves, as we\'re not affiliated with them.",
+var policy_content = "<b><a href='http://www.kinofilmehd.com/'>Kinofilmehd.com</a></b> collects all movies from Google, Youtube, DailyMotion ... and other free resources.<br/><b><a href='http://www.kinofilmehd.com/'>Kinofilmehd.com</a></b> is not responsible for any content that not published by <b><a href='http://www.kinofilmehd.com/'>Kinofilmehd.com</a></b>.<br/>Please contact, <b><a href='http://www.kinofilmehd.com/'>Kinofilmehd.com</a></b> is willing to remove copyright materials immediately<br/>All movies found on this website are hosted on third-party servers that are freely available to watch online for all internet users. Any legal issues regarding the free online movies on this website should be taken up with the actual file hosts themselves, as we\'re not affiliated with them.",
 
 	page_loading_msg = 'Loading ...',					// loading text for page transitions
 	vid_loading_msg = 'Loading, please wait ...',		// loading message for switching movie servers
@@ -38,7 +38,6 @@ var policy_content = "<b><a href='http://www.prescriptz.com/'>PREScriptZ.com</a>
 	go_custom_page_msg = 'Enter page number you want to go',
 	go_custom_page_error_msg = 'Error! Only numberic accept'
 	;
-
 /************************
 DO NOT CHANGE FROM HERE
 *************************/
