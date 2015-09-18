@@ -2068,9 +2068,7 @@ a i.fa-linkedin-square:hover {
     padding: 5px 0px;
   }
 }
-div.labels.author-profile{
-    text-align: center;
-}
+
 .author-profile .pro-pic img {
     max-width: 300px;
     max-height: 100px;
@@ -2078,7 +2076,7 @@ div.labels.author-profile{
     margin-top: 0px;
 }
 .author-profile .pro-inf {
-    margin-top: 30px;
+    margin-top: 28px;
     width: auto;
 }
 .downabal {
