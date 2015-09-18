@@ -2073,7 +2073,11 @@ a i.fa-linkedin-square:hover {
     padding-top: 15px;
     margin-left: auto;
     margin-right: auto;
-    align-content: center;
     text-align: center;
 }
-
+img.imgabal {
+    max-height: 200px;
+    max-width: 450px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
