@@ -1,6 +1,6 @@
 
 var custom_categories_enabled = true,	// turn OFF if use Blogger's category system
-	num_latest_post_by_author = 6,		// max latest movies to list
+	num_latest_post_by_author = 11,		// max latest movies to list
 	num_related_posts = num_recent_posts = 12,	// max movies to list for Related & Recent sections
 	dynamic_content = true,				// lazy-load option, set FALSE to load all movie detailed page
 	latest_by_author_loaded = related_posts_loaded = false, // use with dynamic_content only
@@ -13,7 +13,7 @@ var showRandomImg = true;			// if movie page has more than 1 image, random to sh
 
 /* pagination settings */
 var pageCount = 12;					// number movies showed per page, MUST be SAME VALUE in Blogger's Configure Blog Posts
-var displayPageNum = 2;				// number pages displayed
+var displayPageNum = 5;				// number pages displayed
 var upPageWord ='&#171; newer';
 var downPageWord ='older &#187;';
 var home_page_url = location.href, 
@@ -29,7 +29,7 @@ var policy_content = "<b><a href='http://www.kinofilmehd.com/'>Kinofilmehd.com</
 	light_off_msg = 'Light OFF', 	// MUST be SAME TEXT in your SYSTEM configs
 	latest_by_author_msg = 'Latest movies by ',	// label text for lazy-load option
 	like2reveal_wait_msg = 'or please wait',	// Like2Reveal message, viewers must like to keep watching the movie
-	like2reveal_timeout = 15,							// or wait timeout(default: 15 seconds) to keep watching
+	like2reveal_timeout = 10,							// or wait timeout(default: 15 seconds) to keep watching
 	like2reveal_min_msg = 'minute(s)',
 	like2reveal_sec_msg = 'second(s)',
 	vid_error_msg = 'Error: Movie can not be loaded',			// contact subject to report error movie
