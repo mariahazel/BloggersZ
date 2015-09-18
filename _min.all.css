@@ -1,13 +1,11 @@
-/* -----------------------------------------------
-ColorRespMovieSkin - Movie Blogger Template Skin
-Inspired by    : Movie Xpose - ThemeXpose - http://www.themexpose.com/
------------------------------------------------ */
-/* -----------------------------------------------
-Colorful Responsive Movie Skin for Blogger
-By		: Phimini.com
-URL		: http://www.phimini.com/
------------------------------------------------ */
-
+.downabal {
+    background: transparent none repeat scroll 0% 0%;
+    padding-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    text-align: center;
+}
 #noscriptwarn {
   z-index: 999999;
   position: fixed;
