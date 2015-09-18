@@ -1,8 +1,3 @@
-/* -----------------------------------------------
-Colorful Responsive Movie Skin for Blogger
-By		: Phimini.com
-URL		: http://www.phimini.com/
------------------------------------------------ */
 
 var custom_categories_enabled = true,	// turn OFF if use Blogger's category system
 	num_latest_post_by_author = 6,		// max latest movies to list
